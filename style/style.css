@@ -233,3 +233,8 @@ nav a:hover {
     background-color: #BC007C;
     border-radius: 20px;
 }
+
+.iconskill:hover {
+    transition: all 700ms;
+    zoom: 115%;
+}
